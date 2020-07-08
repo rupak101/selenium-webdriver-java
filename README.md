@@ -22,11 +22,11 @@
 * Encapsulation layers like test data, logic of tests, actions on web pages and so on
     - Page object model design pattern used to have a clean separation of layers consisting of test data, logic
     and actions on web pages.
-* Configurator(via custom-session.xml file):
+* Configurator(via testng.xml file):
   * run tests in parallel mode;
     - Test cases executed in parallel with multiple threads.
   * ability to run tests for different browsers by configuring;
-    - Test can run for chrome/firefox browsers using parameters in custom-session.xml file.
+    - Test can run for chrome/firefox browsers using parameters in testng.xml file.
 * Allure report: 
   *Integrate to defect tracking system by using @link
   *Test order by severity by using @Severity annotation.

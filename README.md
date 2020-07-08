@@ -34,7 +34,7 @@
 
 # Steps to execute the project:
 * Method to run in Terminal:
-    * Go to project folder(i.e Bookingkit-task) in the terminal or command line
+    * Go to project folder in the terminal or command line
     * Execute via terminal or command line by entering following command.
     
     Run the below command by replacing the all the [values] with actual values:

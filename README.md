@@ -2,7 +2,7 @@
 
 <br/>This automated web test suite covers all the test cases mentioned in code challenge file.
 
-#Tools, Framework,Programming Language used: 
+# Tools, Framework,Programming Language used: 
    * Intellij IDE, maven, Selenium Webdriver, TestNG, Java 8+,Hamcrest, Page object model (POM)
    
 # Libraries Used
